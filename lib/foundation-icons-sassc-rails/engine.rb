@@ -1,6 +1,6 @@
 module Foundation 
   module Icons 
-    module Sass
+    module Sassc
       module Rails
         class Engine < ::Rails::Engine
         end
